@@ -4,7 +4,7 @@ To setup the official app for development on both Mac & PC for Android/iOS devel
 
 - Download the Flutter SDK via this link: https://docs.flutter.dev/get-started/install
   
-- Download Android Studio
+- Download Android Studio (link: https://developer.android.com/studio)
   
 - Install the Flutter and Dart plugin(s) via opening Android Studio, going to 'SDK Manager', scrolling down to 'Flutter' and clicking on the path directory to the extracted folder of the Flutter SDK that was downloaded
   
