@@ -2,7 +2,7 @@
 
 Apps Purpose: As the goal of the BlockchainUniversityEDU is to make the learning of blockchain technology accessible to everyone, we are developing and releasing an app that can make all of this information available at your fingertips. If you'd like to contribute to the development of this application, please send us an email at blockchaintmu@gmail.com
 
-To setup the official app for development on both Mac & PC for Android/iOS development, follow these instructions:
+To setup the development tools on both Mac & PC for Android/iOS development, follow these instructions:
 
 - Download the Flutter SDK via this link: https://docs.flutter.dev/get-started/install
   
